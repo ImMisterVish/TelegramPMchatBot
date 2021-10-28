@@ -1,7 +1,7 @@
 # pmChatBot
 A simple feed-back bot written in [Boting](https://github.com/Quiec/Boting). It is similar to the Livegram bot.
 
-[🇹🇷 Türkçe](https://github.com/Quiec/pmChatBot/blob/master/README-tr.md) | [🇬🇧 English](https://github.com/Quiec/pmChatBot/blob/master/README.md) 
+[🇹🇷 Türkçe](https://github.com/Quiec/ImMisterVish/TelegramPMchatBot/master/README-tr.md) | [🇬🇧 English](https://github.com/ImMisterVish/TelegramPMchatBot/blob/master/README.md) 
 ## Install
 ### Easy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
