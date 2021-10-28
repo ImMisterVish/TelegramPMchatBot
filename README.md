@@ -6,8 +6,8 @@ A simple feed-back bot written in [Boting](https://github.com/ImMisterVish/Teleg
 
 ### Hard
 ```sh
-git clone https://github.com/Quiec/pmChatBot
-cd pmChatBot
+git clone https://ImMisterVish/TelegramPMchatBot
+cd TelegramPMchatBot
 composer install
 nano .env
 # Create and edit env file #
