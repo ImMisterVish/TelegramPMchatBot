@@ -33,4 +33,4 @@ ADMIN_ID="ID'IN"
 It gives the user's username (if any), and also gives the user a link that can be reached.
 
 ## Contact
-[Telegram](https://t.me/fusuf)
+[Telegram](https://t.me/Kavishka_Dilhara)
